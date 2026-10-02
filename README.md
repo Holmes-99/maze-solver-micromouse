@@ -4,7 +4,7 @@ An autonomous maze-solving robot built on an ESP32, using a floodfill algorithm,
 
 **Team:** Shatha Abualrub, Razan Shalabi, Lara Daifallah, Ghada Swalha
 
-**Course:** [COURSE CODE AND NAME]
+**Course:** ENCS4380 - INTERFACING TECHNIQUES
 
 **Instructor:** Wasel Ghanem
 
